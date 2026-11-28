@@ -5,9 +5,6 @@
   </a>
 </p>
 
-# 💫 About Me:
-🔭 I’m MEPhI student, C, C++, Python developer<br>🌱 I deeply study the features of operating systems, especially Linux, current technologies, applications and frameworks related to my specialty <br>⚡ I really like playing piano and drums!
-
 
 ## 🌐 Socials:
 <p align="center">
@@ -34,17 +31,6 @@
   
   
 </p>
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ignatovayd&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ignatovayd&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ignatovayd&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ignatovayd&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ignatovayd&icon=0&color=0)](https://visitcount.itsvg.in)
