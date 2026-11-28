@@ -1,11 +1,4 @@
 
-<p align="center">
-  <a>
-      <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hey,%20I'm%20Yulia!🕹️">
-  </a>
-</p>
-
-
 ## 🌐 Socials:
 <p align="center">
   <a href="mailto:iyulia73@yandex.ru">
